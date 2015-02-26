@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ruboty::Slack::Rt::VERSION
   spec.authors       = ["Kazuki AKAMINE"]
   spec.email         = ["kazzone87@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ruboty adapter for slack-realtime gem}
+  spec.summary       = %q{ruboty adapter for slack-realtime gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
